@@ -1,7 +1,3 @@
-# Deprecated
-
-We don't use pygestalt in the factory. Check out the links below for some more updated code.
-
 pygestalt
 =========
 
